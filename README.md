@@ -3,3 +3,5 @@ The co founders are passionate about their goal of simplifying access to informa
 They also believe current modes of space travel are a tremendous waste of energy, time and other resources. 
 Interplanetary Digital DNA transfers are the way to go. 
 Even before this, all propulsion has to be fed of solar
+
+Key Technologies include Solar, plasma engines, rankine engines, fusion engines
